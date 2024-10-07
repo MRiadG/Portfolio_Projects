@@ -1,1 +1,1 @@
-#This File holds SQL query
+# This File holds SQL query
