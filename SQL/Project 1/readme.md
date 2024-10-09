@@ -11,7 +11,7 @@ Follow these steps to set up your database:
 
 It's a straightforward process!
 
-### Project Title: Sales and Product Analysis for Fiscal Years 2020 and 2021
+### Project : Sales and Product Analysis for Fiscal Years 2020 and 2021
 
 ### Project Overview
 This project entails a comprehensive analysis of sales and product performance across various dimensions, particularly focusing on the fiscal years 2020 and 2021. The analysis leverages multiple SQL queries to extract insights from the database, with a focus on sales trends, customer performance, product segments, and overall market dynamics. The queries are designed to provide valuable business intelligence that can aid in strategic decision-making for stakeholders.
