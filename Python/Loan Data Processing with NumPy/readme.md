@@ -1,4 +1,5 @@
-Project Description: Loan Data Processing with NumPy
+Project Description: Loan Data Processing with NumPy.
+
 This project involves working with a loan dataset, leveraging NumPy to perform various data preprocessing tasks. The dataset contains both numerical and string data, and the goal is to clean and transform it for analysis.
 
 Key steps include:
